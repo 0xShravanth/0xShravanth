@@ -39,11 +39,14 @@ def fetch_repos():
 
 
 def build_table(repos):
-    hosted = [r for r in repos if r.get("homepage") and r["homepage"].strip()]
+    hosted = [
+        r for r in repos
+        if r.get("homepage") and "vercel.app" in r["homepage"].strip().lower()
+    ]
     hosted.sort(key=lambda r: r.get("pushed_at", ""), reverse=True)
 
     if not hosted:
-        return "_No hosted projects detected yet — set a repo's \"Website\" field in GitHub repo settings to have it appear here._"
+        return "_No Vercel-deployed projects detected yet — set a repo's \"Website\" field in GitHub repo settings to a vercel.app link to have it appear here._"
 
     rows = [
         "| Project | Live Link | Status | Description |",
