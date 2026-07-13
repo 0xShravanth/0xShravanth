@@ -1,35 +1,37 @@
 # Hi, I'm Shravanth 👋
 
 ```
-*##+**#*+--++###=-:-::.  .:---:---::.:::-+=+*#    shravanthks@0xShravanth
-%#**+==--:-=*+**+=-++-.. ..:-=---==--=-:-=*%%%    ----------------------------------------
-%%#*+==-::-=+*+**=-+*+-:...:=======+*%+=**#%%%    OS: .......................... Windows 10, Linux (WSL)
-%@%#+==--:-=*###*--+*+==-...-====+=+##++%%%%%%    Host: ........................ TCS → GE Healthcare
-%%%#++=--:-=++++=--+++==-...-=-:=**=+#+*%%%%%%    Kernel: ....................... Full Stack Engineer (Tech Lead)
-%%%#+==----=++++=-:===+=-:..-=-:-+#*++=*%%%%%%    IDE: .......................... AntiGravity IDE, VSCode, Cursor
-%%##+=-----+#%%#++=+****+=-.:----=**++++%%%%%%    
-#%%%+==----*%%#***=+*+++==-:::-=++***+=*%%%%%%    Languages.Programming: ....... JavaScript, TypeScript, Python, Java, Rust
-#%%%+==----*%#++===++-.    ...-+++***==+%%%%%%    Languages.Computer: .......... HTML, CSS, SQL, JSON, YAML
-*%#*+=--::-+*+*+==-:       ....-++++*+++#@@@%%    Languages.Real: .............. English, Kannada, Hindi
--*%%*==----*+-+==:   ....    ..-=+=+#*+#%%@@%%    
--=*#+===--=#+-+-...:=====--::::-+**+*#+#%%@@@%    Hobbies.Tech: ................ Learning & Exploring New Tech, Prompt Eng.
-==+**===--=**=*: :=++========+=:==++****#%%%@%    Hobbies.Life: ................ Yoga, Travel
-%*=*#===--=##*#=.-+++========++:-=-=**++****##    
-@%**#===--=##+*=:=-:..::-:..::==-:==+*+++=====    Contact -----------------------------
-@%###==---=+*+==-=-:..:==:. .:===-=***+======+    Email: ........................ shravanth0023@gmail.com
-@%###====-=+*#=-=++===+++=---=+=--+#***+++==--    LinkedIn: ..................... 0xshravanthks
-%%%%#======*##+===+++=========+-=**#*=**+++=--    GitHub: ....................... 0xShravanth
-=======---====++==-===:..:======**+++=+=+===*#    
-----===---====+++==-:--:::::-=-===---------=++    
-:-::===---=:-++===--==-::-=---::---::---::::::    GitHub Stats ------------------------
--+: ---:--===+++===----::---=-..::::::--.:-:..    See live stats badges below ↓
-.:..-==---=+++++-.==--:..:-==::--:--:-:::--:::                                                  
-===-===-::=++++-  ====-::-===. ==::::-:::-:::-                                                  
-+++++-::.:=++==.  :=---::----. :+=============                                                  
-++++-::-=======    .::...::..  .==-===++++++++                                                  
-++++==========-     .:......   .==--=---===+++                                                  
-+++======---==-.    :-=====:   :-----=------++                                                  
-=======--------:     .-===.    ------------:=+                                                  
+                                                  shravanthks@0xShravanth
+                                                  ----------------------------------------
+                                                  OS: .......................... Windows 10, Linux (WSL)
+                                                  Host: ........................ TCS → GE Healthcare
+                                                  Kernel: ....................... Full Stack Engineer (Tech Lead)
+                      :---:.                      IDE: .......................... AntiGravity IDE, VSCode, Cursor
+                   -*%@@@@%%#*-                   
+                :+#%@@@@@@%%%%%+                  Languages.Programming: ....... JavaScript (ES6+), TypeScript, Python, Java, Rust
+               =%%%@@%%%%%%@%%%#.                 Languages.Computer: .......... HTML5, CSS3, SQL, NoSQL, JSON, YAML
+              =%%%#+=-==+**####*:                 Languages.Real: .............. English, Kannada, Hindi
+              +%#=::::----==--*#=                 
+              -%+::::::------:-#-                 Hobbies.Tech: ................ Learning & Exploring New Tech, Prompt Eng.
+              :#--=**++==+**+=-+.                 Hobbies.Life: ................ Yoga, Travel
+             :-+-+*#%#+-+#%%*+-=                  
+             =+-::-==-::-=+*+-:-+.                Contact -----------------------------
+             -+--::::::--------++                 Email: ........................ shravanth0023@gmail.com
+              :-----:=***=-=====.                 LinkedIn: ..................... 0xshravanthks
+                -=-++++****===.                   GitHub: ....................... 0xShravanth
+                 ===-=+*+=++=:                    
+                 :==-=+*+====                     GitHub Stats ------------------------
+                :--==+***+=+=-:                   See live stats badges below ↓
+              :+=:---=+**====:#+:                 
+          :=*###+ =====++==*-:%####+-.            
+     .-=*#%%%####..+*++*++*= -%##%%@@%#+-:.       
+ .-+*#%%%%%%%###%:--+*****=-:=%%%%%%%%%%%%#*+-    
++%%%%%%%%%%%%%##%*=-.=+++-:==#%%%%%%%%%%%%%%%%    
+#%%%%%%%%%%%%%##%#-:..:=-.:--#%%%%%%%%%%%%%%%%    
+#%%%%%%%%%%%%%%###-......:::=#%%%%%%%%%%%%%%%%    
+#%%%%%%%%%%%%%%%#%=........:=%%%%%%%%%%%%%%%%%    
+#%%%%%%%%%%%%%%%%%*:.:. ...:+%%%%%%%%%%%%%%%%%    
+%%%@%%%%%%%%%%%%%%#-.:.....:*%%%%%%%%%%%%%%@%%    
 ```
 
 <br>
@@ -47,47 +49,44 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+**Languages:** JavaScript (ES6+), TypeScript, Rust, Python, Java
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+**Frontend:** React.js, Next.js, Angular, Redux, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, GSAP, i18n
 
-**Frontend**
+**Backend:** Node.js, Express.js, REST APIs, Microservices, Monolithic Architecture, JWT/OAuth2, gRPC, RBAC, Rate Limiting, bcrypt, Zod
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+**Blockchain / Web3:** Solana, Anchor Framework, Web3.js, Program-Derived Accounts (PDAs), On-Chain Account Design, Event-Driven State Tracking · *Exposure:* Ethereum, Solidity, Foundry, Ethers.js
 
-**Backend**
+**Databases:** MongoDB, PostgreSQL, MySQL, Redis (Caching / Message Brokering), SQL, NoSQL
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**ORMs & Validation:** Mongoose, Prisma, Sequelize, Zod
 
-**Blockchain / Web3**
+**DevOps & Cloud:** Docker, AWS (EC2, PM2), CI/CD Pipelines (GitHub Actions), Kubernetes (familiarity), Git, GitHub, Postman, ESLint, Jest, Mocha/Chai
 
-![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+**AI / GenAI:** LLMs, RAG, Prompt Engineering, LangChain, OpenAI API, AI/ML Solution Architecture, Workflow Automation, TensorFlow, OpenCV, Claude, Cursor, Antigravity
 
-**DevOps & Cloud**
+**Practices:** Agile/Scrum, Cross-Functional & Onshore-Offshore Collaboration, Security Best Practices, Independent Problem-Solving
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Enterprise:** Reltio MDM, AMS+AD L2/L3 Support & Development, Upstream/Downstream Integration, Root Cause Analysis
 
-**AI / GenAI**
+<br>
 
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+## 🎓 Certifications
+
+- School of Solana — Solana Blockchain Development
+- Blockchain Basics Certification
+- Claude AI Development — Udemy (Feb 2026)
+- Angular + TypeScript Essentials — Udemy (Jun 2025) · Credential: UC-3be8bd90
+- Microsoft Azure Fundamentals AZ-900 — Microsoft (Apr 2023)
+
+## 🏆 Achievements
+
+- Finalist — Indian Army Sainya Ranakshetram Hackathon (national-level defence technology competition)
+- Empaneled Trainer — BACCE Foundation
+- Envision Coordinator and Member, Association of Computer Science and Engineering
+- National and State Level Athlete — Yoga
 
 <br>
 
