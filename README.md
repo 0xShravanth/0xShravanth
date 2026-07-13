@@ -73,6 +73,18 @@
 
 <br>
 
+## 🚀 Hosted Projects
+
+_Auto-updated daily — pulls any repo with a "Website" URL set in GitHub, and checks each link's live status in real time._
+
+<!-- HOSTED_PROJECTS:START -->
+| Project | Live Link | Status | Description |
+|---|---|---|---|
+| [Solana Escrow dApp](https://github.com/0xShravanth) | [escrow-dapp-ecru.vercel.app](https://escrow-dapp-ecru.vercel.app) | ![status](https://img.shields.io/website?url=https%3A%2F%2Fescrow-dapp-ecru.vercel.app&up_message=live&down_message=offline&style=flat-square) | Trust-minimized SOL escrow dApp built with Anchor |
+<!-- HOSTED_PROJECTS:END -->
+
+<br>
+
 ## 🎓 Certifications
 
 - School of Solana — Solana Blockchain Development
